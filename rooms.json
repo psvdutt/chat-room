@@ -1,0 +1,14 @@
+{
+    "Room1": {
+        "port": 5400,
+        "password": "Room1@123"
+    },
+    "Room2": {
+        "port": 5906,
+        "password": "Room2@123"
+    },
+    "Room3": {
+        "port": 5121,
+        "password": "Room3@123"
+    }
+}
